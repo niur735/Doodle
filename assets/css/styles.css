@@ -81,10 +81,10 @@ body{margin: 0;}
 /*css of decorations*/
 .landingbox{
 	position: absolute;
-	top:36.2vh;
+	top:38.2vh;
 	left: 59vw;
 	width: 40.1vw;
-	height: 108vh;
+	height: 106vh;
 	background-color: #FFCB00;
 	opacity: 0.5;
 	z-index: 2;
